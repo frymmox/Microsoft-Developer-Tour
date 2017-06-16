@@ -1,0 +1,38 @@
+[
+		{ 
+			"id": 1,
+			"city": "Астана",
+			"name": "Mr. Cat",	
+			"image": "http://s012.radikal.ru/i319/1705/85/83a62327b25f.jpg" 
+		},
+		{ 
+			"id": 2,
+			"city": "Воронеж",
+			"name": "Челюскинцев",
+			"image": "http://s009.radikal.ru/i307/1705/95/7fa352e62938.jpg" 
+		},
+		{ 
+			"id": 3,
+			"city": "Санкт-Петербург",
+			"name": "Клуб Полезного Действия",
+			"image": "http://s018.radikal.ru/i503/1705/35/a378cb9b7391.jpg" 
+		},
+		{ 
+			"id": 4,
+			"city": "Екатеринбург",
+			"name": "Freelance Cafe",
+			"image": "http://s019.radikal.ru/i629/1705/d7/8fd2d4112911.jpg" 
+		},
+		{ 
+			"id": 5,
+			"city": "Новосибирск",
+			"name": "Лаборатория Касперского",
+			"image": "http://s019.radikal.ru/i605/1705/bb/a06f6e26c82a.jpg" 
+		},
+		{ 
+			"id": 6,
+			"city": "Кемерово",
+			"name": "IT-office",
+			"image": "http://s018.radikal.ru/i520/1705/ee/63554c42eb41.jpg" 
+		}
+	]
