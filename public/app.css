@@ -100,7 +100,7 @@ body {
     height: 519px;
     left: 50%;
     top: 320px;
-    margin-left: 620px;
+    margin-left: 610px;
     background: url(./img/bg-right.jpg);
 }
 
@@ -130,10 +130,6 @@ body {
     flex-direction: column-reverse;
     text-decoration: none;
     background-size: cover;
-}
-
-.place:hover {
-    filter: brightness(120%);
 }
 
 .place__address {
@@ -170,7 +166,7 @@ body {
     padding-bottom: 32.37%;
     float: right;
     box-sizing: border-box;
-    background: #eee url('./img/flag.jpg') no-repeat 30px 15px;
+    background: #eee url('./img/flag.png') no-repeat 30px 15px;
 }
 
 .place-add__title {
